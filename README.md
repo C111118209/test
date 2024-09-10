@@ -2,6 +2,10 @@
 ## h2
 ### h3
 
+**test**
+*test*
+~~test~~
+
 `lol`
 
 
@@ -9,13 +13,15 @@
 console.log('test')
 ```
 
-| 標題1    | 標題2    | 標題3    |
-| -------- | -------- | -------- |
+| 標題1111111 | 標題222222222 | 標題333333333 |
+| :-------- | :--------: | --------: |
 | 資料1    | 資料2    | 資料3    |
 | 資料4    | 資料5    | 資料6    |
 | 資料7    | 資料8    | 資料9    |
 
 ---
+***
+___
 
 1. a
 2. b
@@ -23,7 +29,15 @@ console.log('test')
 
 * a
 * b
-* c
++ c
++ d
+- e
+- f
 
 > test
 >> lol
+
+
+[google](https://www.google.com/)
+
+[![youtube](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
